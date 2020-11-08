@@ -14,3 +14,5 @@ Gauche	: "Basculer a gauche"
 Droite	: "Basculer a droite"
 La touche Entrée pour descendre la brique instantanement
 Le jeu se termine lorsque toute les bloques sont utilisées.
+
+Technologies utilisées : C, Sublime Text. 
